@@ -1,2 +1,4 @@
 # Homomorphic_voting
- Secured Voting Web Application system based on Homomorphic Encryption
+ Prototype Web Application for Secured Voting system based on Homomorphic Encryption
+ ## Technologies :
+ Flask, ReactJs
